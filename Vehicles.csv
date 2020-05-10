@@ -1,0 +1,13 @@
+DepotName,Location,DriverID,DepotID,make,model,weight,regNo
+HomeDepot,Liverpool,101,1,volvo,volvo,7,LT5 F12E
+HomeDepot,Liverpool,102,1,volvo,volvo,7,KE2 JDJ2
+HomeDepot,Liverpool,103,1,volvo,volvo,7,UK2 SH82
+HomeDepot,Liverpool,104,1,volvo,volvo,7,OD6 QU2R
+HomeDepot,Liverpool,105,1,volvo,volvo,7,S61 YWT5
+AwayDepot,Manchester,106,2,volvo,volvo,7,JS6 S7HJ
+AwayDepot,Manchester,107,2,volvo,volvo,7,SUY 6A5G
+AwayDepot,Manchester,108,2,volvo,volvo,7,K9W 88JW
+AwayDepot,Manchester,109,2,volvo,volvo,7,JWU U28J
+TopedDepot,London,110,3,volvo,volvo,7,SUY 6A5G
+TopedDepot,London,111,3,volvo,volvo,7,K9W 88JW
+TopedDepot,London,112,3,volvo,volvo,7,JWU U28J
